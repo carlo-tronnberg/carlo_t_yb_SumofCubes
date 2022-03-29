@@ -9,9 +9,8 @@ class carlo_t_yb_SumofCubes {
 
   getValue(x) {
     if (x == 1) return 'one';
-    return 'two';
+    return 'twos';
   }
 }
 
 module.exports = { carlo_t_yb_SumofCubes };
-
